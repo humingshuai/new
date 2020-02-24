@@ -1,7 +1,7 @@
 <?php
 echo 'hello';
 phpinfo();
-phpinfo();
+phpinfo(); echo 123;
 phpinfo();
 phpinfo();
 phpinfo();
