@@ -1,7 +1,7 @@
 <?php
 echo 'hello';
 phpinfo();
-phpinfo(); echo 4444444;
+phpinfo();echo 'merge';
 phpinfo();
 phpinfo();
 phpinfo();
